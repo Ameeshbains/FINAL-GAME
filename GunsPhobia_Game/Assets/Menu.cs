@@ -40,7 +40,7 @@ public class Menu : MonoBehaviour
     public void OpenUrl()
     {
 
-        Application.OpenURL("https://github.com/Ameeshbains/GUNS-PHOBIA.git");
+        Application.OpenURL("https://github.com/Ameeshbains/FINAL-GAME.git");
 
 
     }
