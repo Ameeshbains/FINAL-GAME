@@ -1,0 +1,4 @@
+repository "GunsPhobia_Game@b00146816@cloud"
+  path "/"
+    br "/main"
+    co "/main"
